@@ -1,16 +1,18 @@
 /*=============== GOOGLE FONTS ===============*/
-@import url('/assets/fonts/PotkBlack.ttf');
-
 @font-face {
-  font-family: main_font;
-  src: url('../assets/fonts/Hamrah.ttf');
+  font-family: 'main_font';
+  src: url('../fonts/Hamrah.ttf');
 }
 
 @font-face {
-  font-family: tittle_font;
-  src: url(../assets/fonts/Hamrah.ttf);
+  font-family: 'tittle_font';
+  src: url('../fonts/Hamrah.ttf');
 }
 
+@font-face {
+  font-family: 'potk_black';
+  src: url('../fonts/PotkBlack.ttf');
+}
 /*=============== VARIABLES CSS =s==============*/
 :root {
   --header-height: 3.5rem;
